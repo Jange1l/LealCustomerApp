@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286004160366-ibgrnggp3k43vg7hiq1stc1vsb6jao39.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286004160366-ibgrnggp3k43vg7hiq1stc1vsb6jao39</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDA3v55jX7Oe93GaDvuKrSzCCOtKJMQN64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286004160366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>J.Angel.LealCustomerApp</string>
+	<key>PROJECT_ID</key>
+	<string>leal-f83eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leal-f83eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286004160366:ios:e1c8785487270537a7437f</string>
+</dict>
+</plist>

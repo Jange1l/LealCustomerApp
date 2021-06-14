@@ -1,0 +1,6 @@
+framework module Pods_LealCustomerApp {
+  umbrella header "Pods-LealCustomerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
